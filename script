@@ -6,6 +6,9 @@ ls -i
 #Use man function for information on udev managment tool
 man udevadm
 
+#Enter q to exit the man page
+q
+
 #create 2 directories
 mkdir dir1 dir2
 
